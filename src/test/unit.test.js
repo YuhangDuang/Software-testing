@@ -1,5 +1,5 @@
 // this file contains unit tests that cover the functions mentioned in the testing plan.
-// the tests are implemented using the Jest framework
+// the tests are implemented using the Jest framework.
 import get from '../get';
 import filter from '../filter'
 import isEmpty from '../isEmpty'
